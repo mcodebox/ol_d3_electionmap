@@ -1,0 +1,25 @@
+{
+  "name": "map-base",
+  "version": "0.1.0",
+  "description": "A basic map with OpenLayers.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/repourl.git"
+  },
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-copy": "latest",
+    "grunt-contrib-cssmin": "latest",
+    "grunt-contrib-jshint": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-sass": "latest",
+    "jshint-stylish": "latest"
+  },
+  "dependencies": {
+    "openlayers": "^4.1.1"
+  }
+}
